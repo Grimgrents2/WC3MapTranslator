@@ -53,8 +53,8 @@ WC3MapTranslator is a TypeScript module to convert between JSON and WarCraft III
 
 ## Structures of all war3map.xxx files (use this to update the Translators, maybe add wtg translator)
 
-> 🔗 [all war3map.xxx structures by Zépir](https://wc3maps.com/InsideTheW3M.html)
-> 🔗 [all war3map.xxx structures by Chocobo](https://www.thehelper.net/threads/guide-explanation-of-w3m-and-w3x-files.35292/)
+> 🔗 [Guide by Zépir](https://wc3maps.com/InsideTheW3M.html)
+> 🔗 [Guide by Chocobo](https://www.thehelper.net/threads/guide-explanation-of-w3m-and-w3x-files.35292/)
  
  
 ## Install
