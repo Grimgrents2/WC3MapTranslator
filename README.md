@@ -56,11 +56,17 @@ WC3MapTranslator is a TypeScript module to convert between JSON and WarCraft III
 
 
 > 🔗 [Guide by Hodor in russian but very good, covers all wc3 versions](https://xgm.guru/p/wc3/w3-file-format)
+
 > 🔗 [Software by Drake53](https://github.com/Drake53/War3Net/tree/master/src/War3Net.Build.Core)
+
 > 🔗 [Guide by Zépir](https://wc3maps.com/InsideTheW3M.html)
+
 > 🔗 [Guide by Chocobo 1](https://www.thehelper.net/threads/guide-explanation-of-w3m-and-w3x-files.35292/)
+
 > 🔗 [Guide by Chocobo 2](https://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=42787)
+
 > 🔗 [Guide by Luashine](https://www.hiveworkshop.com/threads/success-hybrid-12-24-player-map-backwards-compatible-1-24-1-28-5-1-31.339722/ )
+
 > 🔗 [Guide by HiveWE](https://github.com/stijnherfst/HiveWE/wiki/)
 
  
